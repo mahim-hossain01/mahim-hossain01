@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Mahim Hosain.
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Data Analysis 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on email
-- 😄 Fun: HTML IS A PROGRAMMING LANGUAGE 
+![Mahim Hossain](https://github.com/user-attachments/assets/af7166dd-f66b-48a3-857a-8f97d2cdc7c9)
